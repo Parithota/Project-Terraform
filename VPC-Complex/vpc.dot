@@ -1,0 +1,6 @@
+digraph G {
+  rankdir = "RL";
+  node [shape = rect, fontname = "sans-serif"];
+  "aws_instance.linux-ec2" [label="aws_instance.linux-ec2"];
+  "aws_instance.windows-ec2" [label="aws_instance.windows-ec2"];
+}
