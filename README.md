@@ -25,6 +25,7 @@ https://developer.hashicorp.com/terraform/tutorials/aws-get-started/install-cli
 # Resources
 https://developer.hashicorp.com/tutorials/library?product=terraform
 
+
 #Documentation
 https://developer.hashicorp.com/terraform/docs
 
